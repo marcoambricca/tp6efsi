@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import Personas from '../modules/Personas.js'; // Adjust the path as needed
-import './styles/home.css'; // Adjust the path as needed
+import Personas from '../modules/Personas.js';
+import './styles/home.css';
 
 export default function Home() {
     return (
